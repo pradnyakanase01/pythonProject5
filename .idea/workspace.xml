@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="002fdc6b-3c72-413c-b2d7-423c80b7dcee" name="Changes" comment="" />
+    <list default="true" id="002fdc6b-3c72-413c-b2d7-423c80b7dcee" name="Changes" comment="task 4 added">
+      <change afterPath="$PROJECT_DIR$/src/exe_17082024/task5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,6 +32,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.task4.executor": "Run",
+    "Python.task5.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -35,6 +55,44 @@
       <option name="presentableId" value="Default" />
       <updated>1724407655034</updated>
     </task>
+    <task id="LOCAL-00001" summary="task 3 added">
+      <option name="closed" value="true" />
+      <created>1724407751871</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724407751871</updated>
+    </task>
+    <task id="LOCAL-00002" summary="task 3 added">
+      <option name="closed" value="true" />
+      <created>1724407760500</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724407760500</updated>
+    </task>
+    <task id="LOCAL-00003" summary="task 3 added">
+      <option name="closed" value="true" />
+      <created>1724407865501</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724407865501</updated>
+    </task>
+    <task id="LOCAL-00004" summary="task 4 added">
+      <option name="closed" value="true" />
+      <created>1724409071386</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724409071386</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task 3 added" />
+    <MESSAGE value="task 4 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 4 added" />
   </component>
 </project>
